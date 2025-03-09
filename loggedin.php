@@ -28,9 +28,11 @@
                 if(compareCredentials($un, $pass)) {
                     echo "Logged in";
                 } else {
-                    echo "Wrong Credentials!";
+                    
+                    echo "Wrong Credentials! <br>";
                 }
         }
+        <a href="index.php">Go back!</a>
     ?>
 <body>
     
