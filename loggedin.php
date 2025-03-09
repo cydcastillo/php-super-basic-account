@@ -32,8 +32,8 @@
                     echo "Wrong Credentials! <br>";
                 }
         }
-        <a href="index.php">Go back!</a>
     ?>
+    <a href="index.php">Go back!</a>
 <body>
     
 </body>
